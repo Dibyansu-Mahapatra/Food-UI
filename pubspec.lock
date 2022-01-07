@@ -6,7 +6,7 @@ packages:
     description:
       name: args
       url: "https://pub.dartlang.org"
-    source: hosted
+    source: unhosted
     version: "2.3.0"
   async:
     dependency: transitive
